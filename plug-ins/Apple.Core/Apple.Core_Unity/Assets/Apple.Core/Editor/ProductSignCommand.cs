@@ -1,4 +1,4 @@
-﻿#if UNITY_EDITOR_OSX
+﻿#if UNITY_EDITOR
 
 namespace Apple.Core
 {

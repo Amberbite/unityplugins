@@ -5,7 +5,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-#if UNITY_EDITOR_OSX
+#if UNITY_EDITOR
 using UnityEditor.iOS.Xcode;
 #endif
 

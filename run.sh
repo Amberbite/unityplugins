@@ -1,0 +1,1 @@
+python3 build.py -p Core GameKit -m iOS --skip-codesign
